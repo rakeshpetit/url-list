@@ -1,2 +1,7 @@
+node_modules
+
+/.cache
+/build
+.env
 .github
 .vscode
